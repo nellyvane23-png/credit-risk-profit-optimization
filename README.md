@@ -38,7 +38,7 @@ Mediante valores SHAP se validó que las decisiones del modelo responden a funda
 ### 4. Optimización de Política de Corte (P&L)
 Simulación de escenarios financieros considerando ingresos por intereses, comisión de apertura (2%), costo de fondeo (6%), severidad de pérdida LGD (70%) y costo operativo ($50 USD).
 
-![Optimización Financiera](04optimizacióndebeneficios.png)
+![Optimización Financiera](04profitoptimization.png)
 
 ---
 **Stack Tecnológico:** Python, Pandas, NumPy, Scikit-Learn, LightGBM, SHAP, Matplotlib/Seaborn.
