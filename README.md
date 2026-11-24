@@ -1,6 +1,7 @@
 # Credit Risk Scoring & Portfolio Profit Optimization (P&L)
 
-[![Open In Colab](https://google.com)](https://github.com)
+[![Open In Colab](https://google.com)](https://google.com)
+
 
 ## Resumen Ejecutivo
 Este proyecto desarrolla un sistema de originación crediticia *end-to-end* utilizando **894,251 préstamos históricos reales** (Lending Club, 2015–2018). A diferencia de los enfoques puramente estadísticos, este trabajo traduce la Probabilidad de Incumplimiento (*PD*) a un **Estado de Resultados (P&L) unitario** para definir la política de aprobación que maximiza la rentabilidad neta del portafolio.
